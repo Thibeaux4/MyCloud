@@ -1,0 +1,25 @@
+*{
+    margin:.03
+}
+
+.my_cloud{
+    color: turquoise;
+    height: 80px;
+    background-color: black;
+    text-align: left;
+    font-style: oblique;
+}
+.completed_projects{
+    color: white;
+    background-color:blueviolet;
+    text-align:center;
+    height: 60px;
+}
+
+.contact_us{
+    background-color: lightblue;
+    text-align: right;
+    font-size: medium;
+    text-decoration: underline;
+    height: 40px;
+}
